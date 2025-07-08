@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,300&display=swap');
+body{
+  font-family: 'Poppins', sans-serif !important;
+} 
+a, a:hover{text-decoration: none;}
+.text-bold{
+  font-weight: bold;
+}
+
+.app-wrapper{
+  /* background: #04b4e0 url('./images/main_bg.png') center center / cover; */
+}
+.br-30{
+  border-radius: 30px;
+}
+.profile-pic-block{
+  max-width: 150px !important;
+  max-height: 150px;
+  border-radius: 200px;
+  overflow: hidden;
+}
+.bs-1{
+  box-shadow: 1px 1px 1px var(--dark-black);
+}
+.social-icon, .nav-iconn{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  text-align: center;
+}
+button.nav-iconn{
+  border: none;
+  background: transparent;
+  color: white;
+  position: relative;
+}
+button.admin-button:hover a, button.admin-button:hover a i{
+  background: none;
+  color: var(--white);
+}
+@media (min-width: 992px){
+  .profile-pic-block{
+    max-width: 175px !important;
+    max-height: 175px;
+  }
+  button.nav-iconn{
+    outline: none;
+    width: 125px;
+    transform: scale(0.8);
+    border: solid 0.5px var(--darkblack-half);
+    animation: ondeactiveAnim 0.5s forwards;
+  }
+  button.nav-iconn.active{
+    animation: onactiveAnim 0.5s alternate forwards;
+    background: var(--button-black);
+  }
+  button.nav-iconn > span{
+    min-width: 60px;
+    text-align: right;
+    letter-spacing: 1px;
+  }
+  button.nav-iconn > i{
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .to-top{
+    animation: totop 1s forwards;
+  }
+}
+@keyframes totop {
+  from {
+    transform:translateY(100px);
+    opacity: 0;
+  }
+  to {
+    transform:translateY(0px);
+    opacity: 1;
+  }
+}
+@keyframes onactiveAnim {
+  from {
+    transform: scale(0.8);
+  }
+  to {
+    transform: scale(1)
+  }
+}
+@keyframes ondeactiveAnim {
+  from {
+    transform: scale(1)
+  }
+  to {
+    transform: scale(0.8);
+  }
+}

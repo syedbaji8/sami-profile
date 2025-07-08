@@ -1,0 +1,310 @@
+[
+    {
+        "userId":"syedbaji8",
+        "userName":"syedbaji8",
+        "userMail": "syedbaji_8@yahoo.com",
+        "passWord": "syedbaji8",
+        "themeOption": "Dark",
+        "profileData": {
+            "name": "Syed Baji Shaik",
+            "position": "Front-end Developer",
+            "socialLinks": {
+                "facebook": "https://www.facebook.com",
+                "twitter": "https://www.twitter.com",
+                "linkedin":"https://www.linkedin.com",
+                "youtube":"https://www.youtube.com"
+            },
+            "resumeDownLink":"https://www.heroku.com/uploads/myresume.pdf",
+            "aboutDescription": "I have more than 7 years of professional experience in User Interface and Application development using web technologies for building content management systems, eCommerce applications, microsites, landing pages, email newsletters, etc. Currently working as UI Developer with Langoor Ditigal Pvt Ltd., I am adept at developing web-based application systems with highly interactive user interfaces, rich user experiences, building custom responsive themes & functionality.",
+            "mobile":"7338324752",
+            "email": "syedbaji8@gmail.com",
+            "address": "Bengaluru, HSR Layout",
+            "education": [
+                {
+                    "dateFrom": 2010,
+                    "dateTo": 2011,
+                    "college": "Arena Animation",
+                    "course":"Web Designing Diploma",
+                    "where": "Vijayawada"
+                },
+                {
+                    "dateFrom": 2011,
+                    "dateTo": 2012,
+                    "college": "CMTES Computer Education",
+                    "course":"Graphic Design",
+                    "where": "Vijayawada"
+                }
+            ],
+            "whatIdo": [
+                {
+                    "ableToDo": "E-Commerce",
+                    "description": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales."
+                },
+                {
+                    "ableToDo": "Copywriting",
+                    "description": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales."
+                },
+                {
+                    "ableToDo": "Web Design",
+                    "description": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales."
+                },
+                {
+                    "ableToDo": "Web Development",
+                    "description": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales."
+                }
+            ],
+            "experience": [
+                {
+                    "dateFrom": 2018,
+                    "dateTo": null,
+                    "company": "Langoor Havas Pvt Ltd",
+                    "role":"UI Developer",
+                    "responsibility":"Tech lead, UI / functionality development, frontend architecture planning",
+                    "where": "Bengaluru"
+                },
+                {
+                    "dateFrom": 2018,
+                    "dateTo": 2017,
+                    "company": "NIRANTA Services & Solutions",
+                    "role":"UI/UX Developer",
+                    "responsibility":"Technical Planning, Frontend UI & layout development",
+                    "where": "Bengaluru"
+                },
+                {
+                    "dateFrom": 2015,
+                    "dateTo": 2016,
+                    "company": "XIPHIAS Software Technologies",
+                    "role":"UI Developer",
+                    "responsibility":"Technical Planning, Frontend UI & layout development",
+                    "where": "Bengaluru"
+                },
+                {
+                    "dateFrom": 2011,
+                    "dateTo": 2015,
+                    "company": "Sri Futuristic",
+                    "role":"Web & Graphic Designer",
+                    "responsibility":"Design Planning, Graphic design, Frontend UI & layout development",
+                    "where": "Bengaluru"
+                }
+            ],
+            "skillSet": [
+                {
+                    "groupTitle": "Coding Skills",
+                    "skills": [
+                        {
+                            "name": "Web Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Print Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Logo Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Graphic Design",
+                            "percentage": 97
+                        }
+                    ]
+                },
+                {
+                    "groupTitle": "Design Skills",
+                    "skills": [
+                        {
+                            "name": "Web Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Print Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Logo Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Graphic Design",
+                            "percentage": 97
+                        }
+                    ]
+                }
+            ],
+            "works": [
+                {
+                    "imageSrcUrl": "/images/livayur.png",
+                    "hrefLink":"https://www.livayur.com"
+                },
+                {
+                    "imageSrcUrl": "/images/home-clearance-premium.jpg",
+                    "hrefLink":"https://www.homeclearance.com.au/"
+                },
+                {
+                    "imageSrcUrl": "/images/nabler.png",
+                    "hrefLink":"https://www.nabler.com/"
+                },
+                {
+                    "imageSrcUrl": "/images/prathima.png",
+                    "hrefLink":"https://prathimahospitals.com/"
+                },
+                {
+                    "imageSrcUrl": "/images/ammaphysiotherapy.png",
+                    "hrefLink":"https://ammaphysiotherapy.com/"
+                }
+            ]
+        }
+    },
+    {
+        "userId":"balabhavani",
+        "userName":"balabhavani",
+        "userMail": "balabhavani@yahoo.com",
+        "passWord": "balabhavani",
+        "themeOption": "Dark",
+        "profileData": {
+            "name": "Arja Bala Bhavani",
+            "position": "MIS Executive",
+            "socialLinks": {
+                "facebook": "www.facebook.com",
+                "twitter": "www.twitter.com",
+                "linkedin":"www.linkedin.com",
+                "youtube":"www.youtube.com"
+            },
+            "resumeDownLink":"www.heroku.com/uploads/myresume.pdf",
+            "aboutDescription": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.",
+            "mobile":"9666349905",
+            "email": "arja.bhavani@gmail.com",
+            "address": "Bengaluru, Bilekahalli",
+            "education": [
+                {
+                    "dateFrom": 2010,
+                    "dateTo": 2011,
+                    "college": "GIB Business School",
+                    "course":"Web Designing Diploma",
+                    "where": "Vijayawada"
+                },
+                {
+                    "dateFrom": 2011,
+                    "dateTo": 2012,
+                    "college": "CMTES Computer Education",
+                    "course":"Graphic Design",
+                    "where": "Vijayawada"
+                }
+            ],
+            "whatIdo": [
+                {
+                    "ableToDo": "E-Commerce",
+                    "description": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales."
+                },
+                {
+                    "ableToDo": "Copywriting",
+                    "description": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales."
+                },
+                {
+                    "ableToDo": "Web Design",
+                    "description": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales."
+                },
+                {
+                    "ableToDo": "Web Development",
+                    "description": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales."
+                }
+            ],
+            "experience": [
+                {
+                    "dateFrom": 2018,
+                    "dateTo": null,
+                    "company": "Langoor Havas Pvt Ltd",
+                    "role":"UI Developer",
+                    "responsibility":"Tech lead, UI / functionality development, frontend architecture planning",
+                    "where": "Bengaluru"
+                },
+                {
+                    "dateFrom": 2018,
+                    "dateTo": 2017,
+                    "company": "NIRANTA Services & Solutions",
+                    "role":"UI/UX Developer",
+                    "responsibility":"Technical Planning, Frontend UI & layout development",
+                    "where": "Bengaluru"
+                },
+                {
+                    "dateFrom": 2015,
+                    "dateTo": 2016,
+                    "company": "XIPHIAS Software Technologies",
+                    "role":"UI Developer",
+                    "responsibility":"Technical Planning, Frontend UI & layout development",
+                    "where": "Bengaluru"
+                },
+                {
+                    "dateFrom": 2011,
+                    "dateTo": 2015,
+                    "company": "Sri Futuristic",
+                    "role":"Web & Graphic Designer",
+                    "responsibility":"Design Planning, Graphic design, Frontend UI & layout development",
+                    "where": "Bengaluru"
+                }
+            ],
+            "skillSet": [
+                {
+                    "groupTitle": "Coding Skills",
+                    "skills": [
+                        {
+                            "name": "Web Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Print Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Logo Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Graphic Design",
+                            "percentage": 97
+                        }
+                    ]
+                },
+                {
+                    "groupTitle": "Design Skills",
+                    "skills": [
+                        {
+                            "name": "Web Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Print Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Logo Design",
+                            "percentage": 97
+                        },
+                        {
+                            "name": "Graphic Design",
+                            "percentage": 97
+                        }
+                    ]
+                }
+            ],
+            "works": [
+                {
+                    "imageSrcUrl": "/images/livayur.png",
+                    "hrefLink":"www.livayur.com"
+                },
+                {
+                    "imageSrcUrl": "/images/home-clearance-premium.jpg",
+                    "hrefLink":"https://www.homeclearance.com.au/"
+                },
+                {
+                    "imageSrcUrl": "/images/nabler.png",
+                    "hrefLink":"https://www.nabler.com/"
+                },
+                {
+                    "imageSrcUrl": "/images/prathima.png",
+                    "hrefLink":"https://prathimahospitals.com/"
+                }
+            ]
+        }
+    }
+]
