@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b089ec3108deb4987f6fe7712e3fdac",
+    "revision": "627a6ccae444855d1055dc96eb799f5c",
     "url": "/sami-profile/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sami-profile/static/css/2.17ba3353.chunk.css"
   },
   {
-    "revision": "86ae114987ea427188c3",
+    "revision": "78434d8060b84c89d046",
     "url": "/sami-profile/static/css/main.cddb93fd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sami-profile/static/js/2.e117a07f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86ae114987ea427188c3",
-    "url": "/sami-profile/static/js/main.c1a68be7.chunk.js"
+    "revision": "78434d8060b84c89d046",
+    "url": "/sami-profile/static/js/main.7503adbe.chunk.js"
   },
   {
     "revision": "964be464c2d2fc65b051",
