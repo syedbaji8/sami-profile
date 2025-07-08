@@ -17,8 +17,8 @@ function Routes() {
             <NavLink activeClassName={'green'} to="/contact">Contact</NavLink> */}
             <Switch>
                 <Route exact path='/' component={App}></Route>
-                <Route exact path='/about' component={About}></Route>
-                <Route component={PageNotFound}></Route>
+                {/* <Route exact path='/about' component={About}></Route> */}
+                <Route component={App}></Route>
             </Switch>
         </Router>
     )

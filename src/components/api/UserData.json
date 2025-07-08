@@ -156,14 +156,14 @@
         }
     },
     {
-        "userId":"balabhavani",
-        "userName":"balabhavani",
-        "userMail": "balabhavani@yahoo.com",
-        "passWord": "balabhavani",
+        "userId":"GSamiullaKhan",
+        "userName":"G.Samiulla Khan",
+        "userMail": "sami900023@gmail.com",
+        "passWord": "sami900023@gmail.com",
         "themeOption": "Dark",
         "profileData": {
-            "name": "Arja Bala Bhavani",
-            "position": "MIS Executive",
+            "name": "G.Samiulla Khan",
+            "position": "Front-end Developer",
             "socialLinks": {
                 "facebook": "www.facebook.com",
                 "twitter": "www.twitter.com",
@@ -171,9 +171,9 @@
                 "youtube":"www.youtube.com"
             },
             "resumeDownLink":"www.heroku.com/uploads/myresume.pdf",
-            "aboutDescription": "Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.",
-            "mobile":"9666349905",
-            "email": "arja.bhavani@gmail.com",
+            "aboutDescription": "I have more than 7 years of professional experience in User Interface and Application development using web technologies for building content management systems, eCommerce applications, microsites, landing pages, email newsletters, etc. Currently working as UI Developer with Langoor Ditigal Pvt Ltd., I am adept at developing web-based application systems with highly interactive user interfaces, rich user experiences, building custom responsive themes & functionality.",
+            "mobile":"+91-9000402177",
+            "email": "sami900023@gmail.com",
             "address": "Bengaluru, Bilekahalli",
             "education": [
                 {
