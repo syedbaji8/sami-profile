@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sami-profile/static/css/main.cddb93fd.chunk.css",
-    "main.js": "/sami-profile/static/js/main.0d8b2910.chunk.js",
-    "main.js.map": "/sami-profile/static/js/main.0d8b2910.chunk.js.map",
+    "main.js": "/sami-profile/static/js/main.864d595f.chunk.js",
+    "main.js.map": "/sami-profile/static/js/main.864d595f.chunk.js.map",
     "runtime-main.js": "/sami-profile/static/js/runtime-main.9fb5cef1.js",
     "runtime-main.js.map": "/sami-profile/static/js/runtime-main.9fb5cef1.js.map",
     "static/css/2.17ba3353.chunk.css": "/sami-profile/static/css/2.17ba3353.chunk.css",
     "static/js/2.e117a07f.chunk.js": "/sami-profile/static/js/2.e117a07f.chunk.js",
     "static/js/2.e117a07f.chunk.js.map": "/sami-profile/static/js/2.e117a07f.chunk.js.map",
     "index.html": "/sami-profile/index.html",
-    "precache-manifest.86b15a3e08e921f2382c12688bbb513d.js": "/sami-profile/precache-manifest.86b15a3e08e921f2382c12688bbb513d.js",
+    "precache-manifest.23b97bbda71857be437641c413aecd61.js": "/sami-profile/precache-manifest.23b97bbda71857be437641c413aecd61.js",
     "service-worker.js": "/sami-profile/service-worker.js",
     "static/css/2.17ba3353.chunk.css.map": "/sami-profile/static/css/2.17ba3353.chunk.css.map",
     "static/css/main.cddb93fd.chunk.css.map": "/sami-profile/static/css/main.cddb93fd.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.17ba3353.chunk.css",
     "static/js/2.e117a07f.chunk.js",
     "static/css/main.cddb93fd.chunk.css",
-    "static/js/main.0d8b2910.chunk.js"
+    "static/js/main.864d595f.chunk.js"
   ]
 }
