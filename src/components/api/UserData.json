@@ -157,12 +157,12 @@
     },
     {
         "userId":"GSamiullaKhan",
-        "userName":"G.Samiulla Khan",
-        "userMail": "sami900023@gmail.com",
-        "passWord": "sami900023@gmail.com",
+        "userName":"G. Samiulla Khan",
+        "userMail": "samiullakhan.mm@gmail.com",
+        "passWord": "samiullakhan.mm@gmail.com",
         "themeOption": "Dark",
         "profileData": {
-            "name": "G.Samiulla Khan",
+            "name": "G. Samiulla Khan",
             "position": "Front-end Developer",
             "socialLinks": {
                 "facebook": "www.facebook.com",
@@ -173,22 +173,22 @@
             "resumeDownLink":"www.heroku.com/uploads/myresume.pdf",
             "aboutDescription": "I have more than 7 years of professional experience in User Interface and Application development using web technologies for building content management systems, eCommerce applications, microsites, landing pages, email newsletters, etc. Currently working as UI Developer with Langoor Ditigal Pvt Ltd., I am adept at developing web-based application systems with highly interactive user interfaces, rich user experiences, building custom responsive themes & functionality.",
             "mobile":"+91-9000402177",
-            "email": "sami900023@gmail.com",
+            "email": "samiullakhan.mm@gmail.com",
             "address": "Bengaluru, Bilekahalli",
             "education": [
                 {
-                    "dateFrom": 2010,
-                    "dateTo": 2011,
-                    "college": "GIB Business School",
-                    "course":"Web Designing Diploma",
-                    "where": "Vijayawada"
+                    "dateFrom": 2011,
+                    "dateTo": 2014,
+                    "college": "HM Degree College in Rayachoty",
+                    "course":"B.Sc. (Computers)",
+                    "where": "Rayachoty"
                 },
                 {
                     "dateFrom": 2011,
-                    "dateTo": 2012,
-                    "college": "CMTES Computer Education",
-                    "course":"Graphic Design",
-                    "where": "Vijayawada"
+                    "dateTo": 2014,
+                    "college": "HM Degree College in Rayachoty",
+                    "course":"B.Sc. (Computers)",
+                    "where": "Rayachoty"
                 }
             ],
             "whatIdo": [
